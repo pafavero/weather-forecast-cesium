@@ -1,0 +1,614 @@
+{
+    "list": [
+        
+        {
+            "coord": {
+                "lon": 5.38,
+                "lat": 43.3
+            },
+            "sys": {
+                "type": 1,
+                "id": 5584,
+                "message": 0.0291,
+                "country": "FR",
+                "sunrise": 1459833084,
+                "sunset": 1459879824
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "Sky is Clear",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 18.24,
+                "pressure": 1008,
+                "humidity": 82,
+                "temp_min": 17,
+                "temp_max": 20
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.6,
+                "deg": 270
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1459866600,
+            "id": 2995469,
+            "name": "Marseille"
+        },
+        {
+            "coord": {
+                "lon": 4.85,
+                "lat": 45.75
+            },
+            "sys": {
+                "message": 0.0043,
+                "country": "FR",
+                "sunrise": 1459833066,
+                "sunset": 1459880099
+            },
+            "weather": [
+                {
+                    "id": 501,
+                    "main": "Rain",
+                    "description": "moderate rain",
+                    "icon": "10d"
+                }
+            ],
+            "main": {
+                "temp": 12.51,
+                "temp_min": 12.506,
+                "temp_max": 12.506,
+                "pressure": 978.44,
+                "sea_level": 1023,
+                "grnd_level": 978.44,
+                "humidity": 99
+            },
+            "wind": {
+                "speed": 3.01,
+                "deg": 202.001
+            },
+            "clouds": {
+                "all": 92
+            },
+            "rain": {
+                "3h": 3.4725
+            },
+            "dt": 1459869321,
+            "id": 2996944,
+            "name": "Lyon"
+        },
+        {
+            "coord": {
+                "lon": 1.44,
+                "lat": 43.6
+            },
+            "sys": {
+                "type": 1,
+                "id": 5535,
+                "message": 0.0286,
+                "country": "FR",
+                "sunrise": 1459834010,
+                "sunset": 1459880788
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 11.55,
+                "pressure": 1013,
+                "humidity": 81,
+                "temp_min": 11.2,
+                "temp_max": 12
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 5.7,
+                "deg": 290
+            },
+            "clouds": {
+                "all": 90
+            },
+            "dt": 1459870351,
+            "id": 2972315,
+            "name": "Toulouse"
+        },
+        {
+            "coord": {
+                "lon": 7.27,
+                "lat": 43.7
+            },
+            "sys": {
+                "type": 1,
+                "id": 5579,
+                "message": 0.028,
+                "country": "FR",
+                "sunrise": 1459832609,
+                "sunset": 1459879395
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "Sky is Clear",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 18,
+                "pressure": 1009,
+                "humidity": 68,
+                "temp_min": 18,
+                "temp_max": 18
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.1,
+                "deg": 0,
+                "gust": 8.7
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1459868400,
+            "id": 2990440,
+            "name": "Nice"
+        },
+        {
+            "coord": {
+                "lon": -1.55,
+                "lat": 47.22
+            },
+            "sys": {
+                "message": 0.0089,
+                "country": "FR",
+                "sunrise": 1459834506,
+                "sunset": 1459881730
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "broken clouds",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 14.21,
+                "temp_min": 14.206,
+                "temp_max": 14.206,
+                "pressure": 1022.22,
+                "sea_level": 1025.96,
+                "grnd_level": 1022.22,
+                "humidity": 77
+            },
+            "wind": {
+                "speed": 4.51,
+                "deg": 276.501
+            },
+            "clouds": {
+                "all": 76
+            },
+            "dt": 1459869898,
+            "id": 2990969,
+            "name": "Nantes"
+        },
+        {
+            "coord": {
+                "lon": 7.74,
+                "lat": 48.58
+            },
+            "sys": {
+                "type": 1,
+                "id": 4921,
+                "message": 0.0366,
+                "country": "FR",
+                "sunrise": 1459832185,
+                "sunset": 1459879590
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ],
+            "main": {
+                "temp": 13,
+                "pressure": 1009,
+                "humidity": 87,
+                "temp_min": 13,
+                "temp_max": 13
+            },
+            "visibility": 8000,
+            "wind": {
+                "speed": 5.1,
+                "deg": 180
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1459867800,
+            "id": 2973783,
+            "name": "Strasbourg"
+        },
+        {
+            "coord": {
+                "lon": 3.88,
+                "lat": 43.61
+            },
+            "sys": {
+                "message": 0.0034,
+                "country": "FR",
+                "sunrise": 1459833426,
+                "sunset": 1459880203
+            },
+            "isShowSym": true,
+            "weather": [
+                {
+                    "id": 501,
+                    "main": "Rain",
+                    "description": "moderate rain",
+                    "icon": "10d"
+                }
+            ],
+            "main": {
+                "temp": 11.41,
+                "temp_min": 11.406,
+                "temp_max": 11.406,
+                "pressure": 980.8,
+                "sea_level": 1023.24,
+                "grnd_level": 980.8,
+                "humidity": 100
+            },
+            "wind": {
+                "speed": 0.66,
+                "deg": 89.5011
+            },
+            "clouds": {
+                "all": 92
+            },
+            "rain": {
+                "3h": 3.86
+            },
+            "dt": 1459869328,
+            "id": 2992166,
+            "name": "Montpellier"
+        },
+        {
+            "coord": {
+                "lon": -0.58,
+                "lat": 44.84
+            },
+            "sys": {
+                "message": 0.0307,
+                "country": "FR",
+                "sunrise": 1459834422,
+                "sunset": 1459881347
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02d"
+                }
+            ],
+            "main": {
+                "temp": 14.62,
+                "temp_min": 14.621,
+                "temp_max": 14.621,
+                "pressure": 1021.49,
+                "sea_level": 1025.7,
+                "grnd_level": 1021.49,
+                "humidity": 71
+            },
+            "wind": {
+                "speed": 5.42,
+                "deg": 322.001
+            },
+            "clouds": {
+                "all": 12
+            },
+            "dt": 1459870050,
+            "id": 3031582,
+            "name": "Bordeaux"
+        },
+        {
+            "coord": {
+                "lon": 3.06,
+                "lat": 50.63
+            },
+            "sys": {
+                "type": 1,
+                "id": 5625,
+                "message": 0.0342,
+                "country": "FR",
+                "sunrise": 1459833158,
+                "sunset": 1459880864
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 12.99,
+                "pressure": 1008,
+                "humidity": 58,
+                "temp_min": 12,
+                "temp_max": 14
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 4.1,
+                "deg": 270
+            },
+            "clouds": {
+                "all": 90
+            },
+            "dt": 1459867800,
+            "id": 2998324,
+            "name": "Lille"
+        },
+        {
+            "coord": {
+                "lon": -1.67,
+                "lat": 48.11
+            },
+            "sys": {
+                "message": 0.006,
+                "country": "FR",
+                "sunrise": 1459834474,
+                "sunset": 1459881819
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 13.96,
+                "temp_min": 13.956,
+                "temp_max": 13.956,
+                "pressure": 1017.11,
+                "sea_level": 1025.39,
+                "grnd_level": 1017.11,
+                "humidity": 74
+            },
+            "wind": {
+                "speed": 2.96,
+                "deg": 281.501
+            },
+            "clouds": {
+                "all": 92
+            },
+            "dt": 1459869772,
+            "id": 2983990,
+            "name": "Rennes"
+        },
+        {
+            "coord": {
+                "lon": 4.03,
+                "lat": 49.25
+            },
+            "sys": {
+                "type": 1,
+                "id": 5604,
+                "message": 0.1342,
+                "country": "FR",
+                "sunrise": 1459833027,
+                "sunset": 1459880528
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "broken clouds",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 15,
+                "pressure": 1010,
+                "humidity": 72,
+                "temp_min": 15,
+                "temp_max": 15
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 4.1,
+                "deg": 220
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1459866600,
+            "id": 2984114,
+            "name": "Reims"
+        },
+        {
+            "coord": {
+                "lon": 0.11,
+                "lat": 49.49
+            },
+            "sys": {
+                "type": 1,
+                "id": 5601,
+                "message": 0.0296,
+                "country": "FR",
+                "sunrise": 1459833950,
+                "sunset": 1459881489
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "Sky is Clear",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 12.41,
+                "pressure": 1011,
+                "humidity": 81,
+                "temp_min": 11,
+                "temp_max": 14
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.6,
+                "deg": 290,
+                "var_beg": 260,
+                "var_end": 320
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1459866600,
+            "id": 3003796,
+            "name": "Le Havre"
+        },
+        {
+            "coord": {
+                "lon": -0.2,
+                "lat": 47
+            },
+            "sys": {
+                "type": 1,
+                "id": 5581,
+                "message": 0.0517,
+                "country": "FR",
+                "sunrise": 1459833192,
+                "sunset": 1459880186
+            },
+            "isShowSym": true,
+            "weather": [
+                {
+                    "id": 501,
+                    "main": "Rain",
+                    "description": "moderate rain",
+                    "icon": "10d"
+                }
+            ],
+            "main": {
+                "temp": 12.5,
+                "pressure": 1010,
+                "humidity": 93,
+                "temp_min": 11,
+                "temp_max": 14
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 5.1,
+                "deg": 350
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1459870365,
+            "id": 2980291,
+            "name": "Tours"
+        },
+        {
+            "coord": {
+                "lon": 5.72,
+                "lat": 45.17
+            },
+            "sys": {
+                "type": 1,
+                "id": 5572,
+                "message": 0.0414,
+                "country": "FR",
+                "sunrise": 1459832893,
+                "sunset": 1459879854
+            },
+            "isShowSym": true,
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ],
+            "main": {
+                "temp": 12.43,
+                "pressure": 1010,
+                "humidity": 87,
+                "temp_min": 12,
+                "temp_max": 13
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.6,
+                "deg": 290
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1459870157,
+            "id": 3014728,
+            "name": "Grenoble"
+        },
+        {
+            "coord": {
+                "lon": 5.72,
+                "lat": 45.17
+            },
+            "sys": {
+                "type": 1,
+                "id": 5572,
+                "message": 0.0414,
+                "country": "FR",
+                "sunrise": 1459832893,
+                "sunset": 1459879854
+            },
+            "isShowSym": true,
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ],
+            "main": {
+                "temp": 12.43,
+                "pressure": 1010,
+                "humidity": 87,
+                "temp_min": 12,
+                "temp_max": 13
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.6,
+                "deg": 290
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1459870157,
+            "id": 3014728,
+            "name": "Grenoble"
+        }
+    ]
+}
+

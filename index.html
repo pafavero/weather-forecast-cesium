@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Wheather forecast</title>
+        <style>
+            @import url(vendors/Cesium/Widgets/widgets.css);
+            #cesiumContainer {
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 100%;
+                margin: 0;
+                overflow: hidden;
+                padding: 0;
+                font-family: sans-serif;
+            }
+
+            html {
+                height: 100%;
+            }
+
+            body {
+                padding: 0;
+                margin: 0;
+                overflow: hidden;
+                height: 100%;
+            }
+
+            #div-introduction {
+                padding: 10px;
+                z-index: 2; 
+                position: absolute; 
+                top:4px;
+                left: 4px;
+                width: 200px;
+                color: #fff;
+                background-color: rgba(50, 50, 50, 0.9);
+            }
+            #div-introduction a:link,
+            #div-introduction a:visited{
+                color: #fff;
+            }
+            h1 {
+                font-size: 16px;
+                font-weight: bold;
+            }
+            h2 {
+                font-size: 13px;
+            }
+            p {
+                font-size: 12px;
+            }
+        </style>
+        <script src="vendors/jquery.js"></script>
+        <script src="vendors/Cesium/Cesium.js"></script>
+        <script src="custom/main.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                Weather.main.init();
+            });
+        </script>
+        
+    </head>
+    <body>
+        <div id="cesiumContainer">
+            <div id="div-introduction">
+                <h1>Simulation<br/>wheather forecast app</h1>
+                <h2>based on <a href="https://cesiumjs.org/">Cesium Js</a>, a free alternative to Google Earth</h2>
+                <p>Since the Google Earth API has been deprecated and not supported after 2016, Cesium can become a good alternatives.</p>
+                <p>This prototyp is very simple, but it will be not difficult to implement a more complex application with the use of real data supplied by free/paied weather service.</p>
+                <p>For example, <a href="http://openweathermap.org/">OpenWeatherMap</a> provides current weather data (available in JSON, XML) for any location on Earth</p>
+            </div>
+        </div>
+    </body>
+</html>

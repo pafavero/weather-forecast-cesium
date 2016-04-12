@@ -1,0 +1,324 @@
+{
+    "list": [  
+        {
+            "coord": {
+                "lon": -1.55,
+                "lat": 53.8
+            },
+            "sys": {
+                "message": 0.0039,
+                "country": "GB",
+                "sunrise": 1459834002,
+                "sunset": 1459882231
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02d"
+                }
+            ],
+            "main": {
+                "temp": 8.06,
+                "temp_min": 8.056,
+                "temp_max": 8.056,
+                "pressure": 993.85,
+                "sea_level": 1020.12,
+                "grnd_level": 993.85,
+                "humidity": 84
+            },
+            "wind": {
+                "speed": 6.56,
+                "deg": 281.501
+            },
+            "clouds": {
+                "all": 24
+            },
+            "dt": 1459869779,
+            "id": 2644688,
+            "name": "Leeds"
+        },
+        {
+            "coord": {
+                "lon": -1.47,
+                "lat": 53.38
+            },
+            "sys": {
+                "type": 1,
+                "id": 7410,
+                "message": 0.0346,
+                "country": "GB",
+                "sunrise": 1459834019,
+                "sunset": 1459882175
+            },
+            "isShowSym": true,
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "scattered clouds",
+                    "icon": "03d"
+                }
+            ],
+            "main": {
+                "temp": 10.82,
+                "pressure": 1012,
+                "temp_min": 9,
+                "temp_max": 12,
+                "humidity": 80
+            },
+            "visibility": 7000,
+            "wind": {
+                "speed": 2,
+                "deg": 150
+            },
+            "clouds": {
+                "all": 44
+            },
+            "dt": 1459868400,
+            "id": 2638077,
+            "name": "Sheffield"
+        },
+        {
+            "coord": {
+                "lon": -74.73,
+                "lat": 45.02
+            },
+            "sys": {
+                "message": 0.0041,
+                "country": "CA",
+                "sunrise": 1459852184,
+                "sunset": 1459899168
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "Sky is Clear",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": -5.19,
+                "temp_min": -5.194,
+                "temp_max": -5.194,
+                "pressure": 1034.46,
+                "sea_level": 1045.49,
+                "grnd_level": 1034.46,
+                "humidity": 48
+            },
+            "wind": {
+                "speed": 2.11,
+                "deg": 322.001
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1459869495,
+            "id": 5928065,
+            "name": "Cornwall"
+        },
+        {
+            "coord": {
+                "lon": -71.45,
+                "lat": 43
+            },
+            "sys": {
+                "type": 1,
+                "id": 1949,
+                "message": 0.0328,
+                "country": "US",
+                "sunrise": 1459851519,
+                "sunset": 1459898263
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02d"
+                }
+            ],
+            "main": {
+                "temp": -2.66,
+                "pressure": 1026,
+                "humidity": 38,
+                "temp_min": -3,
+                "temp_max": -2
+            },
+            "visibility": 16093,
+            "wind": {
+                "speed": 3.6,
+                "deg": 350
+            },
+            "clouds": {
+                "all": 20
+            },
+            "dt": 1459869300,
+            "id": 5089178,
+            "name": "Manchester"
+        },
+        {
+            "coord": {
+                "lon": -0.13,
+                "lat": 51.51
+            },
+            "sys": {
+                "type": 1,
+                "id": 5091,
+                "message": 0.0545,
+                "country": "GB",
+                "sunrise": 1459833853,
+                "sunset": 1459881698
+            },
+            "weather": [
+                {
+                    "id": 521,
+                    "main": "Rain",
+                    "description": "proximity shower rain",
+                    "icon": "09d"
+                }
+            ],
+            "main": {
+                "temp": 13.94,
+                "pressure": 1007,
+                "humidity": 44,
+                "temp_min": 11.8,
+                "temp_max": 15.5
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 5.7,
+                "deg": 260
+            },
+            "clouds": {
+                "all": 40
+            },
+            "dt": 1459870260,
+            "id": 2643743,
+            "name": "London"
+        },
+        {
+            "coord": {
+                "lon": -4.26,
+                "lat": 55.87
+            },
+            "sys": {
+                "message": 0.0034,
+                "country": "GB",
+                "sunrise": 1459834458,
+                "sunset": 1459883076
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "broken clouds",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 7.96,
+                "temp_min": 7.956,
+                "temp_max": 7.956,
+                "pressure": 998.87,
+                "sea_level": 1017.2,
+                "grnd_level": 998.87,
+                "humidity": 98
+            },
+            "wind": {
+                "speed": 6.36,
+                "deg": 280.001
+            },
+            "clouds": {
+                "all": 80
+            },
+            "dt": 1459869560,
+            "id": 2648579,
+            "name": "Glasgow"
+        },
+        {
+            "coord": {
+                "lon": -2.6,
+                "lat": 51.46
+            },
+            "sys": {
+                "type": 1,
+                "id": 5076,
+                "message": 0.0292,
+                "country": "GB",
+                "sunrise": 1459834450,
+                "sunset": 1459882287
+            },
+            "isShowSym": true,
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "scattered clouds",
+                    "icon": "03d"
+                }
+            ],
+            "main": {
+                "temp": 11.76,
+                "pressure": 1009,
+                "humidity": 66,
+                "temp_min": 11,
+                "temp_max": 13
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 7.7,
+                "deg": 260
+            },
+            "clouds": {
+                "all": 36
+            },
+            "dt": 1459870446,
+            "id": 2654675,
+            "name": "Bristol"
+        },
+        {
+            "coord": {
+                "lon": -3.18,
+                "lat": 51.48
+            },
+            "sys": {
+                "type": 1,
+                "id": 5074,
+                "message": 0.0276,
+                "country": "GB",
+                "sunrise": 1459834587,
+                "sunset": 1459882429
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02d"
+                }
+            ],
+            "main": {
+                "temp": 11.76,
+                "pressure": 1010,
+                "humidity": 81,
+                "temp_min": 11,
+                "temp_max": 13
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 6.2,
+                "deg": 260
+            },
+            "clouds": {
+                "all": 20
+            },
+            "dt": 1459870265,
+            "id": 2653822,
+            "name": "Cardiff"
+        }
+    ]
+}
+

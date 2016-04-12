@@ -1,0 +1,561 @@
+{
+    "list": [
+        {
+            "coord": {
+                "lon": 13.36,
+                "lat": 38.12
+            },
+            "sys": {
+                "message": 0.0028,
+                "country": "IT",
+                "sunrise": 1459831442,
+                "sunset": 1459877637
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "Sky is Clear",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 16.36,
+                "temp_min": 16.356,
+                "temp_max": 16.356,
+                "pressure": 1018.97,
+                "sea_level": 1021.13,
+                "grnd_level": 1018.97,
+                "humidity": 93
+            },
+            "wind": {
+                "speed": 4.41,
+                "deg": 76.0011
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1459869304,
+            "id": 2523920,
+            "name": "Palermo"
+        },
+        {
+            "coord": {
+                "lon": 9.19,
+                "lat": 45.46
+            },
+            "sys": {
+                "message": 0.0039,
+                "country": "IT",
+                "sunrise": 1459832043,
+                "sunset": 1459879038
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02d"
+                }
+            ],
+            "main": {
+                "temp": 18.06,
+                "temp_min": 18.056,
+                "temp_max": 18.056,
+                "pressure": 997.98,
+                "sea_level": 1024.09,
+                "grnd_level": 997.98,
+                "humidity": 90
+            },
+            "wind": {
+                "speed": 1.61,
+                "deg": 320.501
+            },
+            "clouds": {
+                "all": 20
+            },
+            "dt": 1459869898,
+            "id": 3173435,
+            "name": "Milano"
+        },
+        {
+            "coord": {
+                "lon": 14.25,
+                "lat": 40.83
+            },
+            "sys": {
+                "message": 0.0034,
+                "country": "IT",
+                "sunrise": 1459831092,
+                "sunset": 1459877559
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "scattered clouds",
+                    "icon": "03d"
+                }
+            ],
+            "main": {
+                "temp": 22.41,
+                "temp_min": 22.406,
+                "temp_max": 22.406,
+                "pressure": 1005.84,
+                "sea_level": 1022.59,
+                "grnd_level": 1005.84,
+                "humidity": 37
+            },
+            "wind": {
+                "speed": 1.41,
+                "deg": 245.001
+            },
+            "clouds": {
+                "all": 36
+            },
+            "dt": 1459869721,
+            "id": 3172394,
+            "name": "Napoli"
+        },
+        {
+            "coord": {
+                "lon": 12.48,
+                "lat": 41.89
+            },
+            "sys": {
+                "type": 1,
+                "id": 5848,
+                "message": 0.0284,
+                "country": "IT",
+                "sunrise": 1459831459,
+                "sunset": 1459878040
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "Sky is Clear",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 21.21,
+                "pressure": 1010,
+                "humidity": 43,
+                "temp_min": 20,
+                "temp_max": 22.8
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.1,
+                "deg": 230,
+                "var_beg": 160,
+                "var_end": 270
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1459870267,
+            "id": 3169070,
+            "name": "Roma"
+        },
+        {
+            "coord": {
+                "lon": 7.69,
+                "lat": 45.07
+            },
+            "sys": {
+                "type": 1,
+                "id": 5795,
+                "message": 0.1161,
+                "country": "IT",
+                "sunrise": 1459832427,
+                "sunset": 1459879375
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "broken clouds",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 15,
+                "pressure": 1013,
+                "humidity": 77,
+                "temp_min": 15,
+                "temp_max": 15
+            },
+            "visibility": 7000,
+            "wind": {
+                "speed": 1,
+                "deg": 0
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1459867800,
+            "id": 3165524,
+            "name": "Torino"
+        },
+        {
+            "coord": {
+                "lon": 12.33,
+                "lat": 45.44
+            },
+            "sys": {
+                "message": 0.0094,
+                "country": "IT",
+                "sunrise": 1459831292,
+                "sunset": 1459878283
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "scattered clouds",
+                    "icon": "03d"
+                }
+            ],
+            "main": {
+                "temp": 17.41,
+                "temp_min": 17.406,
+                "temp_max": 17.406,
+                "pressure": 1023.92,
+                "sea_level": 1024.25,
+                "grnd_level": 1023.92,
+                "humidity": 81
+            },
+            "wind": {
+                "speed": 2.46,
+                "deg": 149.001
+            },
+            "clouds": {
+                "all": 32
+            },
+            "dt": 1459869858,
+            "id": 3164603,
+            "name": "Venezia"
+        },
+        {
+            "coord": {
+                "lon": 11.25,
+                "lat": 43.79
+            },
+            "sys": {
+                "type": 1,
+                "id": 5861,
+                "message": 0.036,
+                "country": "IT",
+                "sunrise": 1459831649,
+                "sunset": 1459878443
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "Sky is Clear",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 23.72,
+                "pressure": 1009,
+                "humidity": 31,
+                "temp_min": 22,
+                "temp_max": 25
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 0.5,
+                "deg": 0
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1459870505,
+            "id": 6542285,
+            "name": "Firenze"
+        },
+        {
+            "coord": {
+                "lon": 77.6,
+                "lat": 26.65
+            },
+            "sys": {
+                "message": 0.0425,
+                "country": "IN",
+                "sunrise": 1459816514,
+                "sunset": 1459861736
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "Sky is Clear",
+                    "icon": "01n"
+                }
+            ],
+            "main": {
+                "temp": 27.57,
+                "temp_min": 27.571,
+                "temp_max": 27.571,
+                "pressure": 992.8,
+                "sea_level": 1020.43,
+                "grnd_level": 992.8,
+                "humidity": 44
+            },
+            "wind": {
+                "speed": 2.12,
+                "deg": 247.001
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1459870516,
+            "id": 1276948,
+            "name": "Bari"
+        },
+        {
+            "coord": {
+                "lon": 8.93,
+                "lat": 44.41
+            },
+            "sys": {
+                "type": 1,
+                "id": 5798,
+                "message": 0.0477,
+                "country": "IT",
+                "sunrise": 1459832168,
+                "sunset": 1459879035
+            },
+            "weather": [
+                {
+                    "id": 701,
+                    "main": "Mist",
+                    "description": "mist",
+                    "icon": "50d"
+                }
+            ],
+            "main": {
+                "temp": 16.51,
+                "pressure": 1011,
+                "humidity": 49,
+                "temp_min": 15,
+                "temp_max": 20
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 4.6,
+                "deg": 50,
+                "var_beg": 20,
+                "var_end": 90
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1459867800,
+            "id": 3176219,
+            "name": "Genova"
+        },
+        {
+            "coord": {
+                "lon": 11.25,
+                "lat": 43.77
+            },
+            "sys": {
+                "type": 1,
+                "id": 5861,
+                "message": 0.0339,
+                "country": "IT",
+                "sunrise": 1459831650,
+                "sunset": 1459878441
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "Sky is Clear",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 23.39,
+                "pressure": 1009,
+                "humidity": 38,
+                "temp_min": 22,
+                "temp_max": 24.4
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.1,
+                "deg": 310,
+                "var_beg": 260,
+                "var_end": 20
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1459869903,
+            "id": 3176959,
+            "name": "Firenze"
+        },
+        {
+            "coord": {
+                "lon": 13.78,
+                "lat": 45.65
+            },
+            "sys": {
+                "message": 0.0091,
+                "country": "IT",
+                "sunrise": 1459830931,
+                "sunset": 1459877946
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "sky is clear",
+                    "icon": "02d"
+                }
+            ],
+            "main": {
+                "temp": 17.31,
+                "temp_min": 17.306,
+                "temp_max": 17.306,
+                "pressure": 990.93,
+                "sea_level": 1024.38,
+                "grnd_level": 990.93,
+                "humidity": 72
+            },
+            "wind": {
+                "speed": 1.76,
+                "deg": 226.001
+            },
+            "clouds": {
+                "all": 8
+            },
+            "dt": 1459869858,
+            "id": 3165185,
+            "name": "Trieste"
+        },
+        {
+            "coord": {
+                "lon": 10.23,
+                "lat": 45.52
+            },
+            "sys": {
+                "type": 1,
+                "id": 5794,
+                "message": 0.0336,
+                "country": "IT",
+                "sunrise": 1459831790,
+                "sunset": 1459878792
+            },
+            "isShowSym": true,
+            "weather": [
+                {
+                    "id": 701,
+                    "main": "Mist",
+                    "description": "mist",
+                    "icon": "50d"
+                }
+            ],
+            "main": {
+                "temp": 19.09,
+                "pressure": 1012,
+                "humidity": 67,
+                "temp_min": 17,
+                "temp_max": 20
+            },
+            "visibility": 5000,
+            "wind": {
+                "speed": 1,
+                "deg": 0
+            },
+            "clouds": {
+                "all": 20
+            },
+            "dt": 1459867800,
+            "id": 3181554,
+            "name": "Brescia"
+        },
+        {
+            "coord": {
+                "lon": 9.13,
+                "lat": 39.21
+            },
+            "sys": {
+                "type": 1,
+                "id": 5781,
+                "message": 0.0304,
+                "country": "IT",
+                "sunrise": 1459832402,
+                "sunset": 1459878705
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "Sky is Clear",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 19.52,
+                "pressure": 1006,
+                "humidity": 63,
+                "temp_min": 18,
+                "temp_max": 22
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 8.2,
+                "deg": 150
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1459867800,
+            "id": 2525473,
+            "name": "Cagliari"
+        },
+        {
+            "coord": {
+                "lon": 16.5,
+                "lat": 41
+            },
+            "isShowSym": true,
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "Sky is Clear",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 23.39,
+                "pressure": 1009,
+                "humidity": 38,
+                "temp_min": 22,
+                "temp_max": 24.4
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.1,
+                "deg": 310,
+                "var_beg": 260,
+                "var_end": 20
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1459869903,
+            "id": 3176959,
+            "name": "xxx"
+        }
+    ]
+}
+
