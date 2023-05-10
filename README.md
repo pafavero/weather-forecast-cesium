@@ -8,5 +8,5 @@
     <img title="show preview" src="custom/img/screenshot.JPG" />
 </a>
 <p>
-    <a href="https://cdn.rawgit.com/pafavero/weather-forecast-cesium/master/index.html" target="_blank" >Show preview</a>
+    <a href="http://pafavero.github.io/weather-forecast-cesium/" target="_blank" >Show preview</a>
 </p>  
