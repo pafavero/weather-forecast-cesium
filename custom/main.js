@@ -1,6 +1,6 @@
 
 // get here your access token: https://cesium.com/learn/cesiumjs-learn/cesiumjs-quickstart/ and substitute in the code:
-Cesium.Ion.defaultAccessToken = "${{ <AccessToken> }}";
+Cesium.Ion.defaultAccessToken = "${{ <vars.ACCESSTOKEN> }}";
 var Weather = {};
 Weather.main = {
   symbols: [],
